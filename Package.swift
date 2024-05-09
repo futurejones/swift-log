@@ -10,7 +10,7 @@
 // See CONTRIBUTORS.txt for the list of Swift Logging API project authors
 //
 // SPDX-License-Identifier: Apache-2.0
-// add some bullshit
+//
 //===----------------------------------------------------------------------===//
 
 import PackageDescription
